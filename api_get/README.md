@@ -1,6 +1,6 @@
-# Basic API Types
+# API with Dictionary Data
 ### Purpose
-- HTTP (Hypertext Transfer Protocol) is the primary means of communicating data on the web. HTTP implements a number of ìmethodsî which tell which direction data is moving and what should happen to it. The two most common are GET, which pulls data from a server, and POST, which pushes new data to a server. In this file, we will be taking a look at GET method.
+- HTTP (Hypertext Transfer Protocol) is the primary means of communicating data on the web. HTTP implements a number of ‚Äúmethods‚Äù which tell which direction data is moving and what should happen to it. The two most common are GET, which pulls data from a server, and POST, which pushes new data to a server. In this file, we will be taking a look at GET method.
 ### Usage
 - You can run the .py file to run it.
 
